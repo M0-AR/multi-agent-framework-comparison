@@ -1,0 +1,12 @@
+Framework,Use Case,Ease of Use,Flexibility,Scalability,Integration Capabilities,Security,Specialization,Cost Efficiency,Open Source vs. Proprietary,Support and Documentation,Performance,Popularity and Adoption,GitHub Stars,Latest Update
+LangChain,High,Moderate,High,High,Excellent,High,High,Moderate,Open Source,High,High,Very High,100K+,Strong focus on RAG and enterprise features
+CrewAI,High,High,High,High,Excellent,High,High,Moderate,Open Source,High,High,High,28.7K+,Improved task delegation and agent collaboration
+Flowise,High,Very High,Moderate,Moderate,Good,High,High,Moderate,Open Source,High,High,High,36.4K+,Added LlamaIndex integration
+Zapier,High,Very High,High,High,Excellent,High,High,Low,Proprietary,Excellent,High,Very High,N/A,Enhanced AI capabilities
+Pabbly Connect,High,High,Moderate,Moderate,Good,High,Moderate,Good,Proprietary,High,Moderate,Moderate,N/A,Expanded app integrations
+LlamaIndex,High,High,High,High,Excellent,High,High,Moderate,Open Source,High,High,High,18.2K+,Advanced RAG capabilities
+Composio,High,High,High,High,Excellent,High,High,Moderate,Mixed,High,High,Moderate,24.4K+,250+ tool integrations
+CAMEL,High,High,High,High,Good,Moderate,High,High,Open Source,High,High,High,10.8K+,Improved research capabilities
+aixplain,High,High,High,High,Excellent,High,High,Moderate,Mixed,High,High,High,40+,Enhanced AI development features
+Microsoft AutoGen,High,Moderate,High,High,Excellent,High,High,Moderate,Open Source,Excellent,High,High,40K+,Advanced agent orchestration
+SuperAGI,High,High,High,High,Excellent,High,High,Moderate,Open Source,High,High,High,16K+,Improved marketplace integration
