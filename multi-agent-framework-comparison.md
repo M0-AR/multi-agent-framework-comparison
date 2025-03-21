@@ -2,42 +2,54 @@
 
 ## Quick Recommendations
 
-### Top 3 No-Code/Low-Code Solutions
-1. **Flowise**
+### Top 4 No-Code/Low-Code Solutions
+1. **AutoGPT**
+   - Perfect for: Visual AI workflow building and autonomous operations
+   - Key Features: Visual workflow builder, continuous agents, marketplace, block-based design
+   - Best For: Enterprise automation, continuous AI operations, complex workflows
+   - GitHub Stars: 150K+
+
+2. **Flowise**
    - Perfect for: Visual AI workflow building without coding
    - Key Features: Drag-and-drop interface, LangChain integration, rapid prototyping
    - Best For: Small to medium businesses, rapid prototyping, simple AI workflows
    - GitHub Stars: 36.4K+
 
-2. **Zapier**
+3. **Zapier**
    - Perfect for: Business automation with AI capabilities
    - Key Features: 7,000+ app integrations, visual builder, enterprise-ready
    - Best For: Business process automation, system integration, workflow automation
    - Market Leader: $7B valuation
 
-3. **Pabbly Connect**
+4. **Pabbly Connect**
    - Perfect for: Cost-effective automation
    - Key Features: Visual workflow builder, multiple integrations, affordable pricing
    - Best For: Small businesses, startups, basic automation needs
    - Budget-Friendly Option
 
-### Top 3 Developer-Focused Solutions
-1. **Microsoft AutoGen**
+### Top 4 Developer-Focused Solutions
+1. **Agno**
+   - Perfect for: High-performance multimodal AI applications
+   - Key Features: Lightning-fast execution, multimodal support, memory management
+   - Best For: Performance-critical applications, multimodal systems
+   - Performance: 10,000x faster than LangGraph
+
+2. **Microsoft AutoGen**
    - Perfect for: Complex multi-agent systems
    - Key Features: Event-driven architecture, enterprise-grade, extensive tooling
    - Best For: Large-scale applications, enterprise solutions
    - GitHub Stars: 40K+
 
-2. **LangChain**
+3. **LangChain**
    - Perfect for: Building sophisticated LLM applications
    - Key Features: Comprehensive framework, extensive integrations, strong community
    - Best For: Production applications, complex AI systems
    - GitHub Stars: 100K+
 
-3. **CrewAI**
+4. **CrewAI**
    - Perfect for: Role-based agent orchestration
-   - Key Features: Agent collaboration, task delegation, built on LangChain
-   - Best For: Complex collaborative tasks, workflow automation
+   - Key Features: Role-based architecture, task delegation, workflow management
+   - Best For: Team-based AI workflows, complex task orchestration
    - GitHub Stars: 28.7K+
 
 ## Framework Links
@@ -56,6 +68,10 @@
 | aixplain | [aixplain.com](https://aixplain.com/) | [github.com/aixplain/aiXplain](https://github.com/aixplain/aiXplain) |
 | Microsoft AutoGen | [microsoft.github.io/autogen](https://microsoft.github.io/autogen/) | [github.com/microsoft/autogen](https://github.com/microsoft/autogen) |
 | SuperAGI | [superagi.com](https://superagi.com/) | [github.com/TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) |
+| AutoGPT | [autogpt.io](https://autogpt.io/) | [github.com/autogpt/autogpt](https://github.com/autogpt/autogpt) |
+| Agno | [agno.ai](https://www.agno.ai/) | [github.com/agno-ai/agno](https://github.com/agno-ai/agno) |
+| E2B | [e2b.ai](https://www.e2b.ai/) | [github.com/e2b-ai/e2b](https://github.com/e2b-ai/e2b) |
+| LiteLLM | [litellm.ai](https://www.litellm.ai/) | [github.com/litellm/litellm](https://github.com/litellm/litellm) |
 
 ## LangChain
 
@@ -327,7 +343,7 @@
 | Open Source vs. Proprietary | Open Source | Fully open-source with active community |
 | Support and Documentation | High | - Comprehensive documentation<br>- Research papers<br>- Cookbooks and examples<br>- Active community |
 | Performance | High | Optimized for research and agent evolution |
-| Popularity and Adoption | High | - 10.8K+ GitHub stars<br>- 106+ GitHub dependents<br>- Research-oriented<br>- Academic citations<br>- Active development |
+| Popularity and Adoption | High | - 10.8K+ GitHub stars<br>- Research-oriented<br>- Academic citations<br>- Active development |
 
 ### Key Strengths
 - Advanced agent evolution capabilities
@@ -439,3 +455,139 @@
 - Cloud costs can scale quickly
 - Limited pre-built workflows
 - Resource-intensive operations
+
+## AutoGPT
+
+### Comprehensive Evaluation
+
+| Metric | Rating | Details |
+|--------|--------|---------|
+| Use Case | High | Platform for building and deploying continuous AI agents. Excellent for autonomous operations, workflow automation, and complex task delegation. |
+| Ease of Use | High | - Visual workflow builder<br>- Low-code interface<br>- Pre-built agent templates<br>- Intuitive block-based design<br>- Drag-and-drop functionality |
+| Flexibility | Excellent | - Custom block creation<br>- Modular architecture<br>- Extensible platform<br>- Multiple deployment options<br>- Wide range of integrations |
+| Scalability | High | - Cloud-based deployment<br>- Continuous agent operation<br>- Trigger-based activation<br>- Load balancing support<br>- Distributed architecture |
+| Integration Capabilities | Excellent | Supports:<br>- Multiple LLM providers<br>- Custom API integrations<br>- Third-party services<br>- Data sources<br>- External tools and platforms |
+| Security | High | - Role-based access control<br>- API key management<br>- Secure agent execution<br>- Data encryption<br>- Activity monitoring<br>- Access logging |
+| Specialization | High | Specialized in:<br>- Autonomous agent operations<br>- Workflow automation<br>- Task delegation<br>- Process optimization |
+| Cost Efficiency | Moderate | - Open-source core (MIT License)<br>- Platform features (Polyform Shield)<br>- Self-hosting option<br>- Cloud deployment costs<br>- API usage fees |
+| Open Source vs. Proprietary | Hybrid | - Core: MIT License<br>- Platform: Polyform Shield<br>- Strong community<br>- Active development |
+| Support and Documentation | Excellent | - Comprehensive documentation<br>- Active Discord community<br>- Regular updates<br>- Video tutorials<br>- Example templates |
+| Performance | High | - Optimized execution<br>- Reliable long-running processes<br>- Efficient resource usage<br>- Quick responses<br>- Reliable service |
+| Popularity and Adoption | Excellent | - 150K+ GitHub stars<br>- Large user community<br>- Enterprise adoption<br>- Regular updates<br>- Active marketplace |
+
+### Key Strengths
+- Visual workflow builder with low-code interface
+- Continuous agent operation capabilities
+- Extensive integration options
+- Strong security features
+- Comprehensive monitoring
+- Active community support
+
+### Limitations
+- Platform features require Polyform Shield license
+- Cloud deployment costs can add up
+- Learning curve for complex workflows
+- Resource-intensive for large deployments
+- API costs for external services
+
+## Agno
+
+### Comprehensive Evaluation
+
+| Metric | Rating | Details |
+|--------|--------|---------|
+| Use Case | High | Lightweight framework for building multimodal AI agents. Excellent for creating fast, model-agnostic agents that work with text, image, audio, and video. |
+| Ease of Use | High | - Simple Python-based API<br>- Familiar programming constructs<br>- Clear documentation<br>- Quick agent creation<br>- Intuitive memory management |
+| Flexibility | Excellent | - Multimodal support (text, image, audio, video)<br>- Model agnostic design<br>- Custom tool integration<br>- Extensible architecture<br>- Multiple deployment options |
+| Scalability | High | - Lightweight architecture<br>- Efficient resource usage<br>- Fast execution speed<br>- Cloud deployment ready<br>- Distributed processing support |
+| Integration Capabilities | High | Supports:<br>- Multiple LLM providers<br>- Vector databases<br>- Knowledge bases<br>- Custom tools<br>- External APIs<br>- Storage solutions |
+| Security | High | - API key management<br>- Secure data handling<br>- Access controls<br>- Memory isolation<br>- Tool permissions |
+| Specialization | High | Specialized in multimodal agent development and fast agent execution |
+| Cost Efficiency | High | - Open-source (free)<br>- Lightweight deployment<br>- Efficient resource usage<br>- Model-agnostic flexibility<br>- Pay only for LLM usage |
+| Open Source vs. Proprietary | Open Source | MIT License with growing community support |
+| Support and Documentation | High | - Clear documentation<br>- Code examples<br>- Active development<br>- Community support<br>- Regular updates |
+| Performance | Excellent | - 10,000x faster than LangGraph<br>- Optimized execution<br>- Efficient memory usage<br>- Quick response times |
+| Popularity and Adoption | Moderate | - Growing community<br>- Active development<br>- Regular updates<br>- Increasing adoption |
+
+### Key Strengths
+- Lightning-fast agent creation and execution
+- Comprehensive multimodal support
+- Simple and intuitive Python API
+- Efficient memory and knowledge management
+- Model-agnostic flexibility
+- Lightweight and resource-efficient
+
+### Limitations
+- Newer framework with smaller community
+- Limited pre-built integrations
+- Documentation still evolving
+- Fewer enterprise case studies
+- Limited advanced features compared to mature frameworks
+
+## E2B
+
+### Comprehensive Evaluation
+
+| Metric | Rating | Details |
+|--------|--------|---------|
+| Use Case | High | Development environment for AI code execution. Specialized in providing secure sandboxes for running AI-generated code and agent operations. |
+| Ease of Use | High | - Simple SDK integration (Python/JavaScript)<br>- Clear API documentation<br>- Pre-built templates<br>- Intuitive sandbox controls<br>- Quick setup process |
+| Flexibility | High | - Multiple runtime environments<br>- Custom package installation<br>- File system access<br>- Command execution<br>- Environment customization |
+| Scalability | High | - Cloud-based infrastructure<br>- Isolated sandboxes<br>- Resource management<br>- Concurrent execution<br>- Auto-scaling capabilities |
+| Integration Capabilities | Excellent | Supports:<br>- Multiple LLM providers<br>- Custom AI agents<br>- Development tools<br>- Data analysis libraries<br>- Visualization packages |
+| Security | Excellent | - Isolated cloud environments<br>- Secure code execution<br>- Resource limits<br>- Access controls<br>- Environment isolation<br>- Sandbox timeouts |
+| Specialization | High | Specialized in:<br>- AI code execution<br>- Secure sandboxing<br>- Development environments<br>- Agent operations |
+| Cost Efficiency | Moderate | - Open-source core<br>- Usage-based pricing<br>- Sandbox runtime costs<br>- Resource consumption fees<br>- API usage charges |
+| Open Source vs. Proprietary | Open Source | MIT License with active development |
+| Support and Documentation | High | - Comprehensive docs<br>- Code examples<br>- API references<br>- Community support<br>- Regular updates |
+| Performance | High | - Fast sandbox startup<br>- Efficient resource usage<br>- Quick code execution<br>- Real-time feedback |
+| Popularity and Adoption | Moderate | - Growing community<br>- Active development<br>- Increasing enterprise interest<br>- Regular updates |
+
+### Key Strengths
+- Secure isolated sandbox environments
+- Simple SDK integration
+- Comprehensive development tools
+- Strong security features
+- Real-time code execution
+- Cloud-based infrastructure
+
+### Limitations
+- Usage-based costs can scale
+- Limited offline capabilities
+- Sandbox timeout restrictions
+- Resource consumption overhead
+- Learning curve for advanced features
+
+## LiteLLM
+
+### Comprehensive Evaluation
+
+| Metric | Rating | Details |
+|--------|--------|---------|
+| Use Case | High | Universal LLM API gateway and proxy. Excellent for standardizing interactions with multiple LLM providers through a unified OpenAI-compatible API. |
+| Ease of Use | Excellent | - OpenAI-compatible API<br>- Simple configuration<br>- Drop-in replacement<br>- Clear documentation<br>- Intuitive proxy setup |
+| Flexibility | High | - Multiple LLM providers<br>- Custom API endpoints<br>- Model fallbacks<br>- Load balancing<br>- Custom routing rules |
+| Scalability | High | - Efficient proxy architecture<br>- Load distribution<br>- Rate limiting<br>- Concurrent requests<br>- High availability |
+| Integration Capabilities | Excellent | Supports:<br>- OpenAI<br>- Anthropic<br>- Azure<br>- Google<br>- Multiple other providers<br>- Custom endpoints |
+| Security | High | - API key management<br>- Access controls<br>- Rate limiting<br>- Budget controls<br>- Usage tracking<br>- Request logging |
+| Specialization | High | Specialized in:<br>- LLM API standardization<br>- Provider management<br>- Request routing<br>- Cost optimization |
+| Cost Efficiency | High | - Open-source core (free)<br>- Cost tracking<br>- Budget controls<br>- Provider optimization<br>- Usage monitoring |
+| Open Source vs. Proprietary | Open Source | MIT License with active development |
+| Support and Documentation | High | - Comprehensive documentation<br>- API references<br>- Integration guides<br>- Community support<br>- Regular updates |
+| Performance | High | - Fast request routing<br>- Low latency<br>- Efficient caching<br>- Quick responses<br>- Reliable service |
+| Popularity and Adoption | High | - Growing rapidly<br>- Enterprise adoption<br>- Active development<br>- Strong community |
+
+### Key Strengths
+- Universal OpenAI-compatible API
+- Multi-provider support
+- Simple integration process
+- Strong security features
+- Cost optimization tools
+- Comprehensive monitoring
+
+### Limitations
+- Dependent on provider availability
+- Additional network latency
+- Complex provider-specific features
+- Setup overhead for advanced features
+- Limited offline capabilities
