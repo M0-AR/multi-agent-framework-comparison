@@ -1,12 +1,16 @@
 Framework,Use Case,Ease of Use,Flexibility,Scalability,Integration Capabilities,Security,Specialization,Cost Efficiency,Open Source vs. Proprietary,Support and Documentation,Performance,Popularity and Adoption,GitHub Stars,Latest Update
-LangChain,High,Moderate,Very High,Very High,Excellent,High,High,Moderate,Open Source,High,High,Very High,100K+,Strong focus on RAG and enterprise features
-CrewAI,High,Moderate,Very High,High,Excellent,Very High,High,Moderate,Open Source,High,High,High,28.7K+,Improved task delegation and agent collaboration
-Flowise,High,Very High,Moderate,Moderate,Good,High,High,Moderate,Open Source,High,High,High,36.4K+,Added LlamaIndex integration
-Zapier,Very High,Very High,Very High,Very High,Excellent,Very High,Very High,Low,Proprietary,Excellent,Very High,Very High,N/A,Enhanced AI capabilities
-Pabbly Connect,Moderate,High,Moderate,Moderate,Good,High,Moderate,Good,Proprietary,High,Moderate,Moderate,N/A,Expanded app integrations
-LlamaIndex,Very High,High,Very High,Very High,Excellent,High,Very High,Moderate,Open Source,High,Very High,High,18.2K+,Advanced RAG capabilities
-Composio,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Mixed,High,Very High,High,24.4K+,250+ tool integrations
-CAMEL,Very High,Moderate,Very High,Very High,Excellent,High,Very High,High,Open Source,High,Very High,High,10.8K+,Improved research capabilities
-aixplain,High,Moderate,High,High,Excellent,Very High,High,Moderate,Proprietary,High,High,Moderate,40+,Enhanced AI development features
-Microsoft AutoGen,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Open Source,Excellent,Very High,Very High,40K+,Advanced agent orchestration
-SuperAGI,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Open Source,High,Very High,High,16K+,Improved marketplace integration
+LangChain,High,Moderate,Very High,Very High,Excellent,High,High,Moderate,Open Source,High,High,Very High,100K+,Mar 2025: Added Claude 3.7, LangGraph Swarm & BigTool features
+CrewAI,High,Moderate,Very High,High,Excellent,Very High,High,Moderate,Open Source,High,High,High,28.7K+,Mar 2025: Added Flow state export and event emitter features
+Flowise,High,Very High,Moderate,Moderate,Good,High,High,Moderate,Open Source,High,High,High,36.4K+,Mar 2025: Enhanced LlamaIndex integration and UI improvements
+Zapier,Very High,Very High,Very High,Very High,Excellent,Very High,Very High,Low,Proprietary,Excellent,Very High,Very High,N/A,Mar 2025: Advanced AI workflow automation features
+Pabbly Connect,Moderate,High,Moderate,Moderate,Good,High,Moderate,Good,Proprietary,High,Moderate,Moderate,N/A,Feb 2025: Extended app integration ecosystem
+LlamaIndex,Very High,High,Very High,Very High,Excellent,High,Very High,Moderate,Open Source,High,Very High,High,18.2K+,Mar 2025: Enhanced RAG capabilities and vector store support
+Composio,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Mixed,High,Very High,High,24.4K+,Mar 2025: Added 250+ tool integrations and API connectors
+CAMEL,Very High,Moderate,Very High,Very High,Excellent,High,Very High,High,Open Source,High,Very High,High,10.8K+,Feb 2025: Advanced research and reasoning capabilities
+aixplain,High,Moderate,High,High,Excellent,Very High,High,Moderate,Proprietary,High,High,Moderate,40+,Mar 2025: Enhanced AI development and testing features
+Microsoft AutoGen,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Open Source,Excellent,Very High,Very High,40K+,Mar 2025: Advanced agent orchestration and workflow tools
+SuperAGI,Very High,High,Very High,Very High,Excellent,Very High,Very High,Moderate,Open Source,High,Very High,High,16K+,Mar 2025: Enhanced marketplace and tool integration
+AutoGPT,Very High,High,Excellent,High,Excellent,High,High,Moderate,Hybrid,Excellent,High,Excellent,171K+,Feb 2025: v0.4.9 - Enhanced API output & profile management
+Agno,High,High,Excellent,High,High,High,High,High,Open Source,High,Excellent,Moderate,19K+,Mar 2025: v1.2.0 - Improved multimodal capabilities
+E2B,High,High,High,High,Excellent,Excellent,High,Moderate,Open Source,High,High,Moderate,16.2K+,Feb 2025: v2.1.0 - Enhanced sandbox security
+LiteLLM,High,Very High,High,Very High,Excellent,High,High,High,Open Source,High,High,High,18.8K+,Mar 2025: v1.63.8 - Improved proxy & spend tracking
